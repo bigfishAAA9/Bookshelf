@@ -16,6 +16,48 @@
 
 ---
 
+#### [Bioinformatics with Python Cookbook](Genomics/Bioinformatics with Python Cookbook/)
+
+**作者**: Tiago Antao  
+**出版社**: Packt Publishing (2018)  
+**ISBN**: 9781787122083
+
+本书通过实用的Python代码示例，介绍了生物信息学分析的核心技术，包括下一代测序数据分析、基因组操作、群体遗传学、系统发育分析等。
+
+**主要章节**:
+- Python和软件生态环境
+- 下一代测序数据分析
+- 基因组数据处理
+- 群体遗传学
+- 群体遗传学模拟
+- 系统发育分析
+- 蛋白质数据库使用
+- 其他生物信息学主题
+- 大型基因组数据集处理
+
+---
+
+#### [OReilly Bioinformatics Data Skills](Genomics/OReilly Bioinformatics Data Skills Reproducible and Robust Research with Open Source Tools/)
+
+**作者**: Vince Buffalo  
+**出版社**: O'Reilly Media (2015)  
+**ISBN**: 9781449367371
+
+本书教读者如何使用开源工具进行可重现和稳健的生物信息学研究，涵盖Unix shell、R语言、Git版本控制、数据工具等实用技能。
+
+**主要章节**:
+- 如何学习生物信息学
+- 生物信息学项目设置与管理
+- SNP Calling实践
+- Unix Shell基础
+- 远程机器操作
+- Git版本控制（面向科学家）
+- Unix数据工具
+- R语言快速入门
+- 区间数据处理
+
+---
+
 ## 📖 书籍结构
 
 ### Part I: Foundations (基础篇)
