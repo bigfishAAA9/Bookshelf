@@ -18,6 +18,17 @@
 
 ---
 
+### Machine Learning (机器学习)
+
+#### [Machine Learning机器学习](Machine Learning/Machine Learning机器学习/)
+
+**作者**: 周志华  
+**出版社**: 清华大学出版社 (2016)
+
+本书是机器学习领域的经典中文教材，系统地介绍了机器学习的核心概念、算法和应用。全书涵盖监督学习、无监督学习、半监督学习、强化学习等多个方向，包括决策树、神经网络、支持向量机、贝叶斯分类器、集成学习、聚类、降维等经典算法。
+
+---
+
 ### Genomics (基因组学)
 
 #### [An Introduction to Statistical Genetic Data Analysis](Genomics/An Introduction to Statistical Genetic Data Analysis/)
@@ -164,6 +175,29 @@
 
 ---
 
+### 5. Machine Learning机器学习
+
+| 章节 | 标题 | 主要内容 |
+|------|------|----------|
+| 第01章 | 绪论 | 机器学习概述、基本术语、学习任务分类 |
+| 第02章 | 模型评估与选择 | 经验误差、过拟合、评估方法、性能度量 |
+| 第03章 | 线性模型 | 线性回归、对数几率回归、线性判别分析 |
+| 第04章 | 决策树 | ID3、C4.5、CART、剪枝策略 |
+| 第05章 | 神经网络 | 感知机、多层前馈网络、BP算法 |
+| 第06章 | 支持向量机 | 最大间隔、核函数、软间隔、SMO算法 |
+| 第07章 | 贝叶斯分类器 | 朴素贝叶斯、贝叶斯网络、EM算法 |
+| 第08章 | 集成学习 | Bagging、Boosting、随机森林、XGBoost |
+| 第09章 | 聚类 | K均值、层次聚类、密度聚类、高斯混合模型 |
+| 第10章 | 降维与度量学习 | PCA、KPCA、LDA、流形学习 |
+| 第11章 | 特征选择与稀疏学习 | 过滤式、包裹式、嵌入式、L1正则化 |
+| 第12章 | 计算学习理论 | PAC学习、VC维、Rademacher复杂度 |
+| 第13章 | 半监督学习 | 生成式方法、半监督SVM、图半监督学习 |
+| 第14章 | 概率图模型 | 马尔可夫模型、条件随机场、推断算法 |
+| 第15章 | 规则学习 | 命题规则、一阶规则、归纳逻辑编程 |
+| 第16章 | 强化学习 | MDP、Q学习、策略梯度、深度强化学习 |
+
+---
+
 ## 🎯 学习目标
 
 ### An Introduction to Statistical Genetic Data Analysis
@@ -191,6 +225,13 @@
 - 应用卷积网络处理图像数据
 - 使用循环网络处理序列数据
 - 理解深度生成模型的原理和应用
+
+### Machine Learning机器学习
+- 理解机器学习的基本概念和术语
+- 掌握经典机器学习算法（决策树、SVM、贝叶斯、集成学习等）
+- 学习模型评估与选择的方法
+- 理解半监督学习和强化学习的原理
+- 掌握特征选择、降维等数据预处理技术
 
 ---
 
@@ -225,6 +266,15 @@ Bookshelf/
 │       ├── 第02章_线性代数/
 │       ├── ...
 │       └── 第20章_深度生成模型/
+├── Machine Learning/
+│   └── Machine Learning机器学习/
+│       ├── 第00章_前言等/
+│       ├── 第01章_绪论/
+│       ├── 第02章_模型评估与选择/
+│       ├── ...
+│       ├── 第16章_强化学习/
+│       ├── 附录/
+│       └── 索引/
 └── Genomics/
     ├── An Introduction to Statistical Genetic Data Analysis/
     │   ├── 00_Front_Matter/
@@ -273,6 +323,10 @@ Bookshelf/
 - [TensorFlow官网](https://www.tensorflow.org/) - 深度学习框架
 - [PyTorch官网](https://pytorch.org/) - 深度学习框架
 
+### Machine Learning机器学习
+- [周志华个人主页](http://cs.nju.edu.cn/zhouzh/) - 作者主页，包含相关资源
+- [清华大学出版社](https://www.tup.tsinghua.edu.cn/) - 出版商网站
+
 ---
 
 ## 📝 如何使用
@@ -297,7 +351,9 @@ Bookshelf/
 - An Introduction to Statistical Genetic Data Analysis: © 2020 Massachusetts Institute of Technology
 - Bioinformatics with Python Cookbook: © 2018 Packt Publishing
 - OReilly Bioinformatics Data Skills: © 2015 O'Reilly Media
+- TensorFlow深度学习: © 2016 MIT Press (原版), © 2017 人民邮电出版社 (中文版)
+- Machine Learning机器学习: © 2016 清华大学出版社
 
 ---
 
-*最后更新: 2026年7月15日*
+*最后更新: 2026年7月17日*
